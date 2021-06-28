@@ -1,0 +1,28 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "nft",
+            "name": "core-composable_nft",
+            "parameters": {
+                "template": "collectible"
+            }
+        },
+        {
+            "category": "file_storage",
+            "name": "core-ipfs",
+            "parameters": {
+                "mode": "single"
+            }
+        },
+        {
+            "category": "collection",
+            "name": "core-entity",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "conflux",
+    "language": "solidity",
+    "framework": "vanilla"
+}
